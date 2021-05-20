@@ -124,6 +124,7 @@ body{
         background: none;
         padding: 0;
         border-radius: 0;
+        border: none;
     }       
 }
 @media (max-width: 991px) {
